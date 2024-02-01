@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dwagy" alt="dwagy" /></a> </p>
 
-- 🔭 I’m currently working on **Aws and on prem Kubernetes**
+- 🔭 I’m currently working on **Aws, Alibaba Cloud and Huawei Cloud**
 
-- 🌱 I’m currently learning **Azure**
+- 🌱 I’m currently learning **MLOPS**
 
 - 💬 Ask me about **Kubernetes, AWS, CI&CD and Monitoring/Logging**
 
